@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+
+# Ignore the generated files
+pyOutline-*
+rustOutline-*
